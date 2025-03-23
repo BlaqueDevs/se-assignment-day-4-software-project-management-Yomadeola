@@ -170,8 +170,16 @@ Flexible Adjustments:
 As projects evolve, Gantt charts can be easily adjusted to reflect changes in timelines, tasks, or resources, ensuring the project remains aligned with its objectives.
 
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+MY software aims to address issues relating to everyday problem of it users. This problems are significant to my target audience because they are in need of the software to help them solve some of the issues they are facing.
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+Defining the problem help in developing a more effective software solution it make one knows what to tackle while developing the software. A well defined problem during the planning stage would result in a more effective software solution being developed.
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+I would describe my software solution by presenting the problem it want to solve, the solution to the problem and a demo of how the software solves the problem.
 ## 11. What are the main features or functionalities that make your software stand out?
+To make my software stand out, I'll incorporate into it what my competitors did not make available, and also include or enhance the existing software of my competitiors.
 ## 12. What data is available regarding the market size and growth potential for your software?
+No data is available at the moment
 ## 13. How can understanding market trends inform your software’s positioning and development?
+Understanding market trends will allow me position and develop my software to go with the trend and meet the expectations of the target audience by utilizing modern technologies and tools in the development of the software.
+
